@@ -15,8 +15,6 @@ library(magick)
 
 load(file="RedesSociales_31_03_2024/Datos/base_ig_total.RData")
 
-
-
 #Armo gráfico de promedio bimensual de likes en posteos IG
 
 likes=base_ig_total %>%
