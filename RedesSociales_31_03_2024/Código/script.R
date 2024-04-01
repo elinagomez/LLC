@@ -9,6 +9,8 @@ library(ggrepel)
 library(cowplot)
 library(magick)
 
+
+
 ##Cargo base posteos IG de candidatas/os, último año
 
 load(file="RedesSociales_31_03_2024/Datos/base_ig_total.RData")
